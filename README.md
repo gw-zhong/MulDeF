@@ -1,6 +1,6 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green)
 
->Codes for **MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis**.
+>Codes for **MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis** （Accepted by IEEE Transactions on Multimedia）.
 
 ## Usage
 ### Clone the repository
@@ -12,3 +12,6 @@
  ```python
 python train.py
  ```
+
+## Contact
+If you have any question, feel free to contact me through [guoweizhong@zjut.edu.cn](guoweizhong@zjut.edu.cn).
