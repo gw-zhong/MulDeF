@@ -31,3 +31,6 @@ MOSI-visual
 MOSI-visual(2-pole)
 
 models/clue_model.py
+
+.gitignore
+.idea
